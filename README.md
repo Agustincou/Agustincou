@@ -4,11 +4,10 @@ Hi 👋 My name is Agustin Coutinho
 Backend Developer
 -----------------
 
-I worked as a backend developer in large companies in Argentina and since 2023 I have started my own project called "Gestologic" to help make life easier for entrepreneurs.
+I worked as a backend developer in large companies in Argentina and since 2023 I have started my own project [Gestologic](http://gestologic.com.ar) to help make life easier for entrepreneurs.
 
 * 🌍  I'm based in Argentina
-* 🚀  I'm currently working on [Gestologic](http://gestologic.com.ar)
-* 🧠  I'm learning Frontend
+* 🧠  I'm trying Frontend
 
 ### Skills
 
