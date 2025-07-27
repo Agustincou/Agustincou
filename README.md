@@ -7,7 +7,8 @@ Backend Developer
 I worked as a backend developer in large companies in Argentina and since 2023 I have started my own project [Gestologic](http://gestologic.com.ar) to help make life easier for entrepreneurs.
 
 * 🌍  I'm based in Argentina
-* 🧠  I'm trying Frontend
+* ❤️  I love Backend with Golang
+* 🧠  I'm trying Frontend (with Golang too)
 
 ### Skills
 
